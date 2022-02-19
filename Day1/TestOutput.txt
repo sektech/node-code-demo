@@ -1,0 +1,1 @@
+This is appendedWrite a script to check if directory exist

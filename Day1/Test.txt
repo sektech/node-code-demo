@@ -1,0 +1,1 @@
+Write a script to check if directory exist
